@@ -18,7 +18,7 @@ public class StudentTest {
         s3.setName("Roshan");
         
         ArrayOfObject s2=new ArrayOfObject();
-        s2.setName("Louji");
+        s2.setName("Loujiwe");
         
         ArrayOfObject[] list=new ArrayOfObject[3];
         list[0]=s1;
