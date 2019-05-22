@@ -7,7 +7,7 @@ package arrayofobject;
 
 /**
  *
- * @author Neeraj
+ * @author Neeraj louji
  */
 public class StudentTest {
     public static void main(String[] args){
