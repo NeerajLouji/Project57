@@ -7,7 +7,7 @@ package arrayofobject;
 
 /**
  *
- * @author Neeraj
+ * @author Neeraj louji
  */
 public class ArrayOfObject {
     private String name;
