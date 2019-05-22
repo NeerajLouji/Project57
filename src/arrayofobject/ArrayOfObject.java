@@ -41,6 +41,8 @@ public ArrayOfObject(String s,int n)
         this.sid = sid;
     }
     
+    System.out.println("Committted");
+    
     
 
 }
